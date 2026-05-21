@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/lucaros-byte/aurajackketo/main/memz.dll",
+  "changelog": "Initial release",
+  "enabled": true,
+  "min_loader_version": "1.0.0"
+}
